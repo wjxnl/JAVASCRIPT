@@ -5,3 +5,20 @@ div{
     color: blue;
     border: 1px solid red;
 }
+
+#mode{
+    background-color: red;
+    height: 50px;
+    width: 80px;
+    border: 2px solid pink;
+    color: white;
+    border-radius: 5px;
+}
+
+.dark{
+    background-color: black;
+}
+
+.light{
+    background-color: white;
+}
