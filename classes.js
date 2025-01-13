@@ -45,3 +45,4 @@ class doctor extends person{
 
 let engObj = new engineer();
 let doctorObj = new doctor();
+
